@@ -17,6 +17,8 @@
             Console.Write("Welcome to ");
             Console.WriteLine("Programming 120");
 
+            // Benny Goodman
+            Console.WriteLine("Benny Goodman");
 
             //Console.Write("Please enter you name: ");
             //string userName = Console.ReadLine();
